@@ -1,0 +1,7 @@
+//This is my first program file. I will become better than this.
+#include<stdio.h>
+
+int main(){
+  printf("Hello world");
+  return 0:
+}
